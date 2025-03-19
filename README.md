@@ -1,7 +1,7 @@
 # 💫 About Me:
 📫 I am currently pursuing in computer science and engineering<br>
-🚀 Passionate Developer | Open Source Contributor<br>
-💻 Tech Stack: Python, Nodejs<br>
+🚀 Passionate Data Science | Open Source Contributor<br>
+💻 Tech Stack: Python, MYSQL, Nodejs<br>
 📚 Currently Learning: Data Science, ML<br>
 🔭 Working on: Exciting open-source projects<br>
 🌱 Looking to Collaborate on: Python projects<br>
