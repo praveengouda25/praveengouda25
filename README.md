@@ -1,5 +1,14 @@
 # 💫 About Me:
 i am currently pursuing in computer science and engineering<br>
+🚀 Passionate Developer | Open Source Contributor<br>
+💻 Tech Stack: Python, Nodejs<br>
+📚 Currently Learning: Data Science, ML<br>
+🔭 Working on: Exciting open-source projects<br>
+🌱 Looking to Collaborate on: Python projects<br>
+📫 How to Reach Me: praveengoudru25@gmail.com | www.linkedin.com/in/praveen-kumar-b252500cc
+💡 Fun Fact: I love solving coding challenges & exploring new tech!
+
+
 
 
 ## 🌐 Socials:
