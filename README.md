@@ -6,7 +6,7 @@
 🔭 Working on: Exciting open-source projects<br>
 🌱 Looking to Collaborate on: Python projects<br>
 📫 How to Reach Me: praveengoudru25@gmail.com | www.linkedin.com/in/praveen-kumar-b252500cc<br>
-💡 Fun Fact: I love solving coding challenges & exploring new tech!<br>
+💡 Fun Fact:I thought a machine to read resumes --now I help humans write better ones!<br>
 
 
 
