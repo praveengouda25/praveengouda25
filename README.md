@@ -3,15 +3,10 @@
 Hi, I’m Praveen!
 
 🎓 Currently pursuing Computer Science and Engineering
-
 🤖 Passionate about Machine Learning & Artificial Intelligence
-
 🐍 Skilled in Python Development
-
 📊 Interested in Data Analytics with Power BI and SQL
-
 💻 Exploring projects in ML, Data Science, and Web Development
-
 
 🌱 Currently Learning:-
 Advanced Machine Learning algorithms
