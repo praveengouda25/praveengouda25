@@ -1,10 +1,18 @@
-# 💫 About Me:
-📫 I am currently pursuing in computer science and engineering<br>
-🚀 Passionate Data Science | Open Source Contributor<br>
-💻 Tech Stack: Python, MYSQL, Nodejs<br>
-📚 Currently Learning: Data Science, ML<br>
-🔭 Working on: Exciting open-source projects<br>
-🌱 Looking to Collaborate on: Python projects<br>
+👋 About Me
+
+Hi, I’m [Your Name]!
+
+🎓 Currently pursuing Computer Science and Engineering
+
+🤖 Passionate about Machine Learning & Artificial Intelligence
+
+🐍 Skilled in Python Development
+
+📊 Interested in Data Analytics with Power BI and SQL
+
+💻 Exploring projects in ML, Data Science, and Web Development
+
+🚀 Open to collaborating on innovative projects and learning new technologies
 📫 How to Reach Me: praveengoudru25@gmail.com | www.linkedin.com/in/praveen-kumar-b252500cc<br>
 💡 Fun Fact:I thought a machine to read resumes --now I help humans write better ones!<br>
 
