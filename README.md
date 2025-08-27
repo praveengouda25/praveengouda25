@@ -15,7 +15,9 @@ Hi, I’m Praveen!
 
 🌱 Currently Learning:-
 Advanced Machine Learning algorithms
+
 Flask for web applications
+
 Data visualization & storytelling with Power BI
 
 
