@@ -1,6 +1,6 @@
 👋 About Me
 
-Hi, I’m [Your Name]!
+Hi, I’m Praveen!
 
 🎓 Currently pursuing Computer Science and Engineering
 
@@ -15,11 +15,12 @@ Hi, I’m [Your Name]!
 
 🌱 Currently Learning:-
 Advanced Machine Learning algorithms
-Flask/Django for web applications
+Flask for web applications
 Data visualization & storytelling with Power BI
 
 
 📫 How to Reach Me: praveengoudru25@gmail.com | www.linkedin.com/in/praveen-kumar-b252500cc<br>
+
 💡 Fun Fact:I thought a machine to read resumes --now I help humans write better ones!<br>
 
 
