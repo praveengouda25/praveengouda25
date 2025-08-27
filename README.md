@@ -13,12 +13,9 @@ Hi, I’m [Your Name]!
 💻 Exploring projects in ML, Data Science, and Web Development
 
 
-🌱 Currently Learning
-
+🌱 Currently Learning:-
 Advanced Machine Learning algorithms
-
 Flask/Django for web applications
-
 Data visualization & storytelling with Power BI
 
 
