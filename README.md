@@ -12,7 +12,16 @@ Hi, I’m [Your Name]!
 
 💻 Exploring projects in ML, Data Science, and Web Development
 
-🚀 Open to collaborating on innovative projects and learning new technologies
+
+🌱 Currently Learning
+
+Advanced Machine Learning algorithms
+
+Flask/Django for web applications
+
+Data visualization & storytelling with Power BI
+
+
 📫 How to Reach Me: praveengoudru25@gmail.com | www.linkedin.com/in/praveen-kumar-b252500cc<br>
 💡 Fun Fact:I thought a machine to read resumes --now I help humans write better ones!<br>
 
